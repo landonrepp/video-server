@@ -1,6 +1,2 @@
-plex/movies/
-plex/tv/
-plex/music/
-plex/photos/
-plex/plex/
+plex/
 .DS_Store
